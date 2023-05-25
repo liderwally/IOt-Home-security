@@ -1,2 +1,2 @@
-# IOt-Home-security
+# IoT-Home-security
 # 
