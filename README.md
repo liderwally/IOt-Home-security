@@ -1,5 +1,5 @@
 # IoT-Home-security
 # 
 <p >
-  <img src ="./flowchart 0.png">
+  <img src ="./the whole house.png">
 </p>
