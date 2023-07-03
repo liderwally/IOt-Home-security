@@ -7,5 +7,5 @@
   <img src ="./the main controller.png">
   <img src ="./the whole house.png">
   <img src ="./the safe.png">
-  <img src ="./image1.png">
+  
 </p>
