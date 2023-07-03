@@ -6,7 +6,7 @@
   <img src ="./outside the fence.png">
 </p>
 <p>
-  <img style="float:right;" src ="./the home.png">
+  <img style="float:right;height:100;" src ="./the home.png">
   <img src ="./the whole house.png">
   <img src ="./the safe.png">
 </p>
