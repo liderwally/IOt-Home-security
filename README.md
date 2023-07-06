@@ -2,14 +2,14 @@
 # 
 
 <p>
-  <img src ="./inside the fence.png">
-  <img src ="./outside the fence.png">
+  <img src ="./Screenshots/inside the fence.png">
+  <img src ="./Screenshots/outside the fence.png">
 </p>
 <p>
-  <img style="float:right;height:100;" src ="./the home.png">
-  <img src ="./the whole house.png">
-  <img src ="./the safe.png">
+  <img style="float:right;height:100;" src ="./Screenshots/the home.png">
+  <img src ="./Screenshots/the whole house.png">
+  <img src ="./Screenshots/the safe.png">
 </p>
 <p>
-  <img src ="./the main controller.png">
+  <img src ="./Screenshots/the main controller.png">
 </p>
