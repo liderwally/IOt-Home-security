@@ -1,1 +1,0 @@
-Unable to open HEX file '..\..\..\..\..\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\PIR Sensor Library for Proteus\PIRSensorTEP.hex'
